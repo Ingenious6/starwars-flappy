@@ -3,7 +3,7 @@
   font-size: 30px;
   font-style: italic;
   font-family:monospace;
-  background-color:white;
+  background-color:black;
 }
 
 
@@ -14,11 +14,11 @@
   font-size: 15px;
   font-style: italic;
   font-family:;
-  background-color:white;
+  background-color:black;
 
 }
 
 #scores{
   color: white ;
-  background-color: white;
+  background-color: black;
 }
